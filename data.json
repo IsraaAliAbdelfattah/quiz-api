@@ -1,0 +1,1982 @@
+[
+  {
+    "id": 1,
+    "category": "herbs",
+    "question": "What herb is known as the 'king of herbs' in Ayurvedic medicine?",
+    "option_a": "Chamomile",
+    "option_b": "Tulsi (Holy Basil)",
+    "option_c": "Lavender",
+    "option_d": "Rosemary",
+    "correct_answer": "B"
+  },
+  {
+    "id": 2,
+    "category": "herbs",
+    "question": "Which herb is commonly used to soothe digestive issues?",
+    "option_a": "Peppermint",
+    "option_b": "Thyme",
+    "option_c": "Oregano",
+    "option_d": "Sage",
+    "correct_answer": "A"
+  },
+  {
+    "id": 3,
+    "category": "herbs",
+    "question": "Echinacea is primarily known for its ability to:",
+    "option_a": "Lower blood pressure",
+    "option_b": "Improve vision",
+    "option_c": "Boost the immune system",
+    "option_d": "Strengthen bones",
+    "correct_answer": "C"
+  },
+  {
+    "id": 4,
+    "category": "herbs",
+    "question": "Which herb is traditionally used to improve memory and cognitive function?",
+    "option_a": "Dandelion",
+    "option_b": "Nettle",
+    "option_c": "Yarrow",
+    "option_d": "Ginkgo Biloba",
+    "correct_answer": "D"
+  },
+  {
+    "id": 5,
+    "category": "herbs",
+    "question": "Turmeric contains a powerful anti-inflammatory compound called:",
+    "option_a": "Quercetin",
+    "option_b": "Curcumin",
+    "option_c": "Resveratrol",
+    "option_d": "Allicin",
+    "correct_answer": "B"
+  },
+  {
+    "id": 6,
+    "category": "herbs",
+    "question": "Which herb is known to reduce anxiety and promote sleep?",
+    "option_a": "Ginger",
+    "option_b": "Basil",
+    "option_c": "Mint",
+    "option_d": "Valerian Root",
+    "correct_answer": "D"
+  },
+  {
+    "id": 7,
+    "category": "herbs",
+    "question": "Garlic's health benefits are largely attributed to which compound?",
+    "option_a": "Allicin",
+    "option_b": "Capsaicin",
+    "option_c": "Eugenol",
+    "option_d": "Menthol",
+    "correct_answer": "A"
+  },
+  {
+    "id": 8,
+    "category": "herbs",
+    "question": "Which herb has been shown to help regulate blood sugar levels?",
+    "option_a": "Parsley",
+    "option_b": "Dill",
+    "option_c": "Cinnamon",
+    "option_d": "Cilantro",
+    "correct_answer": "C"
+  },
+  {
+    "id": 9,
+    "category": "herbs",
+    "question": "St. John's Wort is most commonly used to treat:",
+    "option_a": "Arthritis",
+    "option_b": "Mild depression",
+    "option_c": "High blood pressure",
+    "option_d": "Insomnia",
+    "correct_answer": "B"
+  },
+  {
+    "id": 10,
+    "category": "herbs",
+    "question": "Which part of the ginger plant is most commonly used medicinally?",
+    "option_a": "Leaves",
+    "option_b": "Flowers",
+    "option_c": "Seeds",
+    "option_d": "Rhizome (root)",
+    "correct_answer": "D"
+  },
+  {
+    "id": 11,
+    "category": "herbs",
+    "question": "Ashwagandha is classified as an:",
+    "option_a": "Stimulant",
+    "option_b": "Adaptogen",
+    "option_c": "Diuretic",
+    "option_d": "Sedative",
+    "correct_answer": "B"
+  },
+  {
+    "id": 12,
+    "category": "herbs",
+    "question": "Which herb is known as 'Nature's antibiotic'?",
+    "option_a": "Basil",
+    "option_b": "Thyme",
+    "option_c": "Oregano",
+    "option_d": "Sage",
+    "correct_answer": "C"
+  },
+  {
+    "id": 13,
+    "category": "herbs",
+    "question": "Chamomile tea is traditionally used for:",
+    "option_a": "Energy boost",
+    "option_b": "Weight loss",
+    "option_c": "Detoxification",
+    "option_d": "Relaxation and sleep",
+    "correct_answer": "D"
+  },
+  {
+    "id": 14,
+    "category": "herbs",
+    "question": "Which herb is primarily used for liver support and detoxification?",
+    "option_a": "Milk Thistle",
+    "option_b": "Lavender",
+    "option_c": "Rosemary",
+    "option_d": "Lemon Balm",
+    "correct_answer": "A"
+  },
+  {
+    "id": 15,
+    "category": "herbs",
+    "question": "The active compound in cayenne pepper that provides heat is:",
+    "option_a": "Gingerol",
+    "option_b": "Curcumin",
+    "option_c": "Capsaicin",
+    "option_d": "Piperine",
+    "correct_answer": "C"
+  },
+  {
+    "id": 16,
+    "category": "herbs",
+    "question": "Which herb is commonly used to treat urinary tract infections?",
+    "option_a": "Elderberry",
+    "option_b": "Blueberry",
+    "option_c": "Raspberry",
+    "option_d": "Cranberry",
+    "correct_answer": "D"
+  },
+  {
+    "id": 17,
+    "category": "herbs",
+    "question": "Peppermint oil applied topically can help relieve:",
+    "option_a": "Headaches",
+    "option_b": "Fever",
+    "option_c": "Nausea",
+    "option_d": "Joint pain",
+    "correct_answer": "A"
+  },
+  {
+    "id": 18,
+    "category": "herbs",
+    "question": "Which herb is known to support thyroid health?",
+    "option_a": "Ginseng",
+    "option_b": "Maca",
+    "option_c": "Spirulina",
+    "option_d": "Ashwagandha",
+    "correct_answer": "D"
+  },
+  {
+    "id": 19,
+    "category": "herbs",
+    "question": "Licorice root is commonly used to treat:",
+    "option_a": "Insomnia",
+    "option_b": "Digestive issues",
+    "option_c": "Hair loss",
+    "option_d": "Skin infections",
+    "correct_answer": "B"
+  },
+  {
+    "id": 20,
+    "category": "herbs",
+    "question": "Which herb has strong antifungal properties?",
+    "option_a": "Lavender",
+    "option_b": "Tea Tree",
+    "option_c": "Eucalyptus",
+    "option_d": "Rosemary",
+    "correct_answer": "B"
+  },
+  {
+    "id": 21,
+    "category": "herbs",
+    "question": "Black cohosh is primarily used to alleviate:",
+    "option_a": "Diabetes",
+    "option_b": "Heart disease",
+    "option_c": "Menopausal symptoms",
+    "option_d": "Anxiety",
+    "correct_answer": "C"
+  },
+  {
+    "id": 22,
+    "category": "herbs",
+    "question": "Which herb is known to improve circulation?",
+    "option_a": "Chamomile",
+    "option_b": "Valerian",
+    "option_c": "Passionflower",
+    "option_d": "Ginkgo Biloba",
+    "correct_answer": "D"
+  },
+  {
+    "id": 23,
+    "category": "herbs",
+    "question": "Elderberry is most popular for its ability to:",
+    "option_a": "Lower cholesterol",
+    "option_b": "Fight cold and flu",
+    "option_c": "Improve digestion",
+    "option_d": "Reduce stress",
+    "correct_answer": "B"
+  },
+  {
+    "id": 24,
+    "category": "herbs",
+    "question": "Which herb contains natural salicylates, similar to aspirin?",
+    "option_a": "Black Walnut",
+    "option_b": "Hawthorn",
+    "option_c": "Nettle",
+    "option_d": "White Willow Bark",
+    "correct_answer": "D"
+  },
+  {
+    "id": 25,
+    "category": "herbs",
+    "question": "Ginseng is primarily used to:",
+    "option_a": "Aid weight loss",
+    "option_b": "Boost energy and reduce fatigue",
+    "option_c": "Improve vision",
+    "option_d": "Treat infections",
+    "correct_answer": "B"
+  },
+  {
+    "id": 26,
+    "category": "herbs",
+    "question": "Which herb is considered a natural blood thinner?",
+    "option_a": "Chamomile",
+    "option_b": "Ginkgo Biloba",
+    "option_c": "Lavender",
+    "option_d": "Sage",
+    "correct_answer": "B"
+  },
+  {
+    "id": 27,
+    "category": "herbs",
+    "question": "Fennel seeds are commonly used to relieve:",
+    "option_a": "Headaches",
+    "option_b": "Bloating and gas",
+    "option_c": "Skin rashes",
+    "option_d": "Insomnia",
+    "correct_answer": "B"
+  },
+  {
+    "id": 28,
+    "category": "herbs",
+    "question": "Which herb has strong antibacterial properties used in oral care?",
+    "option_a": "Aloe Vera",
+    "option_b": "Neem",
+    "option_c": "Calendula",
+    "option_d": "Comfrey",
+    "correct_answer": "B"
+  },
+  {
+    "id": 29,
+    "category": "herbs",
+    "question": "Rosemary is traditionally associated with improving:",
+    "option_a": "Sleep quality",
+    "option_b": "Appetite",
+    "option_c": "Memory and concentration",
+    "option_d": "Blood pressure",
+    "correct_answer": "C"
+  },
+  {
+    "id": 30,
+    "category": "herbs",
+    "question": "Which herb is rich in omega-3 fatty acids?",
+    "option_a": "Basil",
+    "option_b": "Oregano",
+    "option_c": "Flaxseed",
+    "option_d": "Thyme",
+    "correct_answer": "C"
+  },
+  {
+    "id": 31,
+    "category": "herbs",
+    "question": "Hawthorn berry is primarily used for:",
+    "option_a": "Liver support",
+    "option_b": "Heart health",
+    "option_c": "Kidney function",
+    "option_d": "Lung health",
+    "correct_answer": "B"
+  },
+  {
+    "id": 32,
+    "category": "herbs",
+    "question": "Which herb is used to treat skin conditions like eczema?",
+    "option_a": "Dandelion",
+    "option_b": "Evening Primrose",
+    "option_c": "Burdock Root",
+    "option_d": "Red Clover",
+    "correct_answer": "B"
+  },
+  {
+    "id": 33,
+    "category": "herbs",
+    "question": "Maca root is traditionally known for:",
+    "option_a": "Lowering blood sugar",
+    "option_b": "Reducing inflammation",
+    "option_c": "Boosting energy and libido",
+    "option_d": "Improving sleep",
+    "correct_answer": "C"
+  },
+  {
+    "id": 34,
+    "category": "herbs",
+    "question": "Which herb is a natural diuretic?",
+    "option_a": "Lavender",
+    "option_b": "Dandelion",
+    "option_c": "Chamomile",
+    "option_d": "Echinacea",
+    "correct_answer": "B"
+  },
+  {
+    "id": 35,
+    "category": "herbs",
+    "question": "Boswellia (Frankincense) is known for its:",
+    "option_a": "Antibacterial properties",
+    "option_b": "Antifungal properties",
+    "option_c": "Anti-inflammatory properties",
+    "option_d": "Antiviral properties",
+    "correct_answer": "C"
+  },
+  {
+    "id": 36,
+    "category": "herbs",
+    "question": "Which herb is used to reduce fever naturally?",
+    "option_a": "Rosemary",
+    "option_b": "Yarrow",
+    "option_c": "Sage",
+    "option_d": "Basil",
+    "correct_answer": "B"
+  },
+  {
+    "id": 37,
+    "category": "herbs",
+    "question": "Passionflower is primarily used for:",
+    "option_a": "Digestive problems",
+    "option_b": "Skin infections",
+    "option_c": "Anxiety and insomnia",
+    "option_d": "Hair growth",
+    "correct_answer": "C"
+  },
+  {
+    "id": 38,
+    "category": "herbs",
+    "question": "Which herb contains natural compounds similar to estrogen?",
+    "option_a": "Green Tea",
+    "option_b": "Ginger",
+    "option_c": "Red Clover",
+    "option_d": "Turmeric",
+    "correct_answer": "C"
+  },
+  {
+    "id": 39,
+    "category": "herbs",
+    "question": "Slippery Elm is commonly used to soothe:",
+    "option_a": "Skin inflammation",
+    "option_b": "The digestive tract",
+    "option_c": "Joint pain",
+    "option_d": "Headaches",
+    "correct_answer": "B"
+  },
+  {
+    "id": 40,
+    "category": "herbs",
+    "question": "Which herb is used to repel insects naturally?",
+    "option_a": "Lavender",
+    "option_b": "Peppermint",
+    "option_c": "Citronella",
+    "option_d": "Eucalyptus",
+    "correct_answer": "C"
+  },
+  {
+    "id": 41,
+    "category": "herbs",
+    "question": "Cat's Claw is known for its:",
+    "option_a": "Sedative effects",
+    "option_b": "Immune-boosting properties",
+    "option_c": "Diuretic effects",
+    "option_d": "Antifungal effects",
+    "correct_answer": "B"
+  },
+  {
+    "id": 42,
+    "category": "herbs",
+    "question": "Which herb is used to treat respiratory conditions like asthma?",
+    "option_a": "Basil",
+    "option_b": "Mint",
+    "option_c": "Thyme",
+    "option_d": "Sage",
+    "correct_answer": "C"
+  },
+  {
+    "id": 43,
+    "category": "herbs",
+    "question": "Senna is commonly used as a:",
+    "option_a": "Sleep aid",
+    "option_b": "Natural laxative",
+    "option_c": "Pain reliever",
+    "option_d": "Energy booster",
+    "correct_answer": "B"
+  },
+  {
+    "id": 44,
+    "category": "herbs",
+    "question": "Which herb has been shown to lower LDL cholesterol?",
+    "option_a": "Lavender",
+    "option_b": "Chamomile",
+    "option_c": "Fenugreek",
+    "option_d": "Valerian",
+    "correct_answer": "C"
+  },
+  {
+    "id": 45,
+    "category": "herbs",
+    "question": "Aloe Vera gel is primarily known for:",
+    "option_a": "Improving memory",
+    "option_b": "Boosting energy",
+    "option_c": "Treating infections",
+    "option_d": "Soothing skin burns",
+    "correct_answer": "D"
+  },
+  {
+    "id": 46,
+    "category": "herbs",
+    "question": "Which herb is a traditional remedy for wounds and skin healing?",
+    "option_a": "Rosemary",
+    "option_b": "Thyme",
+    "option_c": "Calendula",
+    "option_d": "Oregano",
+    "correct_answer": "C"
+  },
+  {
+    "id": 47,
+    "category": "herbs",
+    "question": "Lemon balm is primarily used for:",
+    "option_a": "Weight loss",
+    "option_b": "Reducing stress and anxiety",
+    "option_c": "Boosting immunity",
+    "option_d": "Detoxification",
+    "correct_answer": "B"
+  },
+  {
+    "id": 48,
+    "category": "herbs",
+    "question": "Which herb is used to treat parasites and worms?",
+    "option_a": "Ginger",
+    "option_b": "Turmeric",
+    "option_c": "Black Walnut",
+    "option_d": "Cinnamon",
+    "correct_answer": "C"
+  },
+  {
+    "id": 49,
+    "category": "herbs",
+    "question": "Holy Basil (Tulsi) is rich in which antioxidant?",
+    "option_a": "Capsaicin",
+    "option_b": "Gingerol",
+    "option_c": "Allicin",
+    "option_d": "Eugenol",
+    "correct_answer": "D"
+  },
+  {
+    "id": 50,
+    "category": "herbs",
+    "question": "Which herb is used to calm muscle spasms?",
+    "option_a": "Valerian",
+    "option_b": "Cramp Bark",
+    "option_c": "Chamomile",
+    "option_d": "Lavender",
+    "correct_answer": "B"
+  },
+  {
+    "id": 51,
+    "category": "health",
+    "question": "How many hours of sleep do most adults need per night?",
+    "option_a": "4-5 hours",
+    "option_b": "7-9 hours",
+    "option_c": "10-12 hours",
+    "option_d": "6 hours exactly",
+    "correct_answer": "B"
+  },
+  {
+    "id": 52,
+    "category": "health",
+    "question": "Which vitamin is produced by the body when exposed to sunlight?",
+    "option_a": "Vitamin C",
+    "option_b": "Vitamin B12",
+    "option_c": "Vitamin D",
+    "option_d": "Vitamin K",
+    "correct_answer": "C"
+  },
+  {
+    "id": 53,
+    "category": "health",
+    "question": "What is the normal resting heart rate for adults?",
+    "option_a": "40-50 bpm",
+    "option_b": "60-100 bpm",
+    "option_c": "110-120 bpm",
+    "option_d": "120-140 bpm",
+    "correct_answer": "B"
+  },
+  {
+    "id": 54,
+    "category": "health",
+    "question": "Which mineral is essential for bone health?",
+    "option_a": "Iron",
+    "option_b": "Zinc",
+    "option_c": "Potassium",
+    "option_d": "Calcium",
+    "correct_answer": "D"
+  },
+  {
+    "id": 55,
+    "category": "health",
+    "question": "What percentage of the human body is water?",
+    "option_a": "About 30%",
+    "option_b": "About 80%",
+    "option_c": "About 60%",
+    "option_d": "About 45%",
+    "correct_answer": "C"
+  },
+  {
+    "id": 56,
+    "category": "health",
+    "question": "Which vitamin is essential for blood clotting?",
+    "option_a": "Vitamin A",
+    "option_b": "Vitamin K",
+    "option_c": "Vitamin E",
+    "option_d": "Vitamin B6",
+    "correct_answer": "B"
+  },
+  {
+    "id": 57,
+    "category": "health",
+    "question": "What is the main function of red blood cells?",
+    "option_a": "Fight infection",
+    "option_b": "Clot blood",
+    "option_c": "Produce hormones",
+    "option_d": "Carry oxygen",
+    "correct_answer": "D"
+  },
+  {
+    "id": 58,
+    "category": "health",
+    "question": "Which organ produces insulin?",
+    "option_a": "Liver",
+    "option_b": "Kidney",
+    "option_c": "Pancreas",
+    "option_d": "Spleen",
+    "correct_answer": "C"
+  },
+  {
+    "id": 59,
+    "category": "health",
+    "question": "What does BMI stand for?",
+    "option_a": "Basal Metabolic Intake",
+    "option_b": "Body Muscle Index",
+    "option_c": "Body Mass Index",
+    "option_d": "Bone Mass Indicator",
+    "correct_answer": "C"
+  },
+  {
+    "id": 60,
+    "category": "health",
+    "question": "Which type of fat is considered most harmful to heart health?",
+    "option_a": "Monounsaturated fat",
+    "option_b": "Trans fat",
+    "option_c": "Omega-3 fat",
+    "option_d": "Polyunsaturated fat",
+    "correct_answer": "B"
+  },
+  {
+    "id": 61,
+    "category": "health",
+    "question": "What is the recommended daily water intake for adults?",
+    "option_a": "2 cups",
+    "option_b": "15 cups",
+    "option_c": "5 cups",
+    "option_d": "8 cups (2 liters)",
+    "correct_answer": "D"
+  },
+  {
+    "id": 62,
+    "category": "health",
+    "question": "Which vitamin prevents scurvy?",
+    "option_a": "Vitamin D",
+    "option_b": "Vitamin A",
+    "option_c": "Vitamin C",
+    "option_d": "Vitamin B1",
+    "correct_answer": "C"
+  },
+  {
+    "id": 63,
+    "category": "health",
+    "question": "The immune system's first line of defense is:",
+    "option_a": "White blood cells",
+    "option_b": "Skin and mucous membranes",
+    "option_c": "Antibodies",
+    "option_d": "Lymph nodes",
+    "correct_answer": "B"
+  },
+  {
+    "id": 64,
+    "category": "health",
+    "question": "What is a healthy blood pressure reading?",
+    "option_a": "160/100 mmHg",
+    "option_b": "80/50 mmHg",
+    "option_c": "120/80 mmHg",
+    "option_d": "200/120 mmHg",
+    "correct_answer": "C"
+  },
+  {
+    "id": 65,
+    "category": "health",
+    "question": "Which macronutrient provides the most energy per gram?",
+    "option_a": "Carbohydrates (4 cal/g)",
+    "option_b": "Fat (9 cal/g)",
+    "option_c": "Protein (4 cal/g)",
+    "option_d": "Fiber (2 cal/g)",
+    "correct_answer": "B"
+  },
+  {
+    "id": 66,
+    "category": "health",
+    "question": "What does HDL stand for in cholesterol?",
+    "option_a": "Heavy Dietary Lipid",
+    "option_b": "High-Dose Liquid",
+    "option_c": "Healthy Dense Lipase",
+    "option_d": "High-Density Lipoprotein",
+    "correct_answer": "D"
+  },
+  {
+    "id": 67,
+    "category": "health",
+    "question": "Which mineral is crucial for oxygen transport in blood?",
+    "option_a": "Calcium",
+    "option_b": "Iron",
+    "option_c": "Magnesium",
+    "option_d": "Phosphorus",
+    "correct_answer": "B"
+  },
+  {
+    "id": 68,
+    "category": "health",
+    "question": "Probiotics are beneficial for which body system?",
+    "option_a": "Nervous system",
+    "option_b": "Cardiovascular system",
+    "option_c": "Digestive system",
+    "option_d": "Skeletal system",
+    "correct_answer": "C"
+  },
+  {
+    "id": 69,
+    "category": "health",
+    "question": "What is the largest organ in the human body?",
+    "option_a": "Liver",
+    "option_b": "Brain",
+    "option_c": "Skin",
+    "option_d": "Lungs",
+    "correct_answer": "C"
+  },
+  {
+    "id": 70,
+    "category": "health",
+    "question": "Which antioxidant vitamin helps protect cells from damage?",
+    "option_a": "Vitamin D",
+    "option_b": "Vitamin K",
+    "option_c": "Vitamin E",
+    "option_d": "Vitamin B12",
+    "correct_answer": "C"
+  },
+  {
+    "id": 71,
+    "category": "health",
+    "question": "What is the function of the lymphatic system?",
+    "option_a": "Pump blood",
+    "option_b": "Digest food",
+    "option_c": "Remove waste and fight infection",
+    "option_d": "Filter blood",
+    "correct_answer": "C"
+  },
+  {
+    "id": 72,
+    "category": "health",
+    "question": "Which hormone regulates sleep-wake cycles?",
+    "option_a": "Cortisol",
+    "option_b": "Melatonin",
+    "option_c": "Insulin",
+    "option_d": "Estrogen",
+    "correct_answer": "B"
+  },
+  {
+    "id": 73,
+    "category": "health",
+    "question": "What is oxidative stress?",
+    "option_a": "Lack of oxygen in tissues",
+    "option_b": "Excess iron in blood",
+    "option_c": "Low blood sugar",
+    "option_d": "Imbalance between free radicals and antioxidants",
+    "correct_answer": "D"
+  },
+  {
+    "id": 74,
+    "category": "health",
+    "question": "Which vitamin is essential for vision, especially night vision?",
+    "option_a": "Vitamin B2",
+    "option_b": "Vitamin C",
+    "option_c": "Vitamin A",
+    "option_d": "Vitamin D",
+    "correct_answer": "C"
+  },
+  {
+    "id": 75,
+    "category": "health",
+    "question": "What are probiotics?",
+    "option_a": "Digestive enzymes",
+    "option_b": "Live beneficial bacteria",
+    "option_c": "Dietary fibers",
+    "option_d": "Antioxidant compounds",
+    "correct_answer": "B"
+  },
+  {
+    "id": 76,
+    "category": "health",
+    "question": "Which organ filters blood and produces bile?",
+    "option_a": "Kidney",
+    "option_b": "Spleen",
+    "option_c": "Liver",
+    "option_d": "Gallbladder",
+    "correct_answer": "C"
+  },
+  {
+    "id": 77,
+    "category": "health",
+    "question": "What is the primary role of white blood cells?",
+    "option_a": "Carry oxygen",
+    "option_b": "Fight infection and disease",
+    "option_c": "Clot blood",
+    "option_d": "Transport nutrients",
+    "correct_answer": "B"
+  },
+  {
+    "id": 78,
+    "category": "health",
+    "question": "Which mineral helps regulate heart rhythm?",
+    "option_a": "Sodium",
+    "option_b": "Chloride",
+    "option_c": "Sulfur",
+    "option_d": "Magnesium",
+    "correct_answer": "D"
+  },
+  {
+    "id": 79,
+    "category": "health",
+    "question": "What does the pancreas produce besides insulin?",
+    "option_a": "Red blood cells",
+    "option_b": "Bile",
+    "option_c": "Digestive enzymes",
+    "option_d": "Estrogen",
+    "correct_answer": "C"
+  },
+  {
+    "id": 80,
+    "category": "health",
+    "question": "What is inflammation?",
+    "option_a": "Type of infection",
+    "option_b": "Lack of blood flow",
+    "option_c": "Body's response to injury or infection",
+    "option_d": "Excess fluid in tissues",
+    "correct_answer": "C"
+  },
+  {
+    "id": 81,
+    "category": "health",
+    "question": "Which vitamin helps the body absorb calcium?",
+    "option_a": "Vitamin C",
+    "option_b": "Vitamin K",
+    "option_c": "Vitamin D",
+    "option_d": "Vitamin B6",
+    "correct_answer": "C"
+  },
+  {
+    "id": 82,
+    "category": "health",
+    "question": "What is the function of the kidneys?",
+    "option_a": "Digest proteins",
+    "option_b": "Store glucose",
+    "option_c": "Produce hormones only",
+    "option_d": "Filter blood and produce urine",
+    "correct_answer": "D"
+  },
+  {
+    "id": 83,
+    "category": "health",
+    "question": "Which type of fiber helps lower cholesterol?",
+    "option_a": "Insoluble fiber",
+    "option_b": "Soluble fiber",
+    "option_c": "Refined fiber",
+    "option_d": "Animal fiber",
+    "correct_answer": "B"
+  },
+  {
+    "id": 84,
+    "category": "health",
+    "question": "What is the glycemic index?",
+    "option_a": "Amount of sugar in food",
+    "option_b": "Caloric content of carbs",
+    "option_c": "Measure of how foods affect blood sugar",
+    "option_d": "Type of sugar molecule",
+    "correct_answer": "C"
+  },
+  {
+    "id": 85,
+    "category": "health",
+    "question": "Which nutrient is most important for muscle repair?",
+    "option_a": "Carbohydrates",
+    "option_b": "Fat",
+    "option_c": "Protein",
+    "option_d": "Vitamins",
+    "correct_answer": "C"
+  },
+  {
+    "id": 86,
+    "category": "health",
+    "question": "What is the role of the thyroid gland?",
+    "option_a": "Control blood sugar",
+    "option_b": "Produce digestive enzymes",
+    "option_c": "Regulate metabolism",
+    "option_d": "Filter toxins",
+    "correct_answer": "C"
+  },
+  {
+    "id": 87,
+    "category": "health",
+    "question": "Omega-3 fatty acids are primarily found in:",
+    "option_a": "Red meat",
+    "option_b": "Dairy products",
+    "option_c": "Fatty fish and flaxseed",
+    "option_d": "White bread",
+    "correct_answer": "C"
+  },
+  {
+    "id": 88,
+    "category": "health",
+    "question": "What is the recommended daily amount of fiber for adults?",
+    "option_a": "5-10 grams",
+    "option_b": "25-38 grams",
+    "option_c": "50-60 grams",
+    "option_d": "100 grams",
+    "correct_answer": "B"
+  },
+  {
+    "id": 89,
+    "category": "health",
+    "question": "Which condition is characterized by high blood sugar?",
+    "option_a": "Anemia",
+    "option_b": "Diabetes",
+    "option_c": "Hypertension",
+    "option_d": "Osteoporosis",
+    "correct_answer": "B"
+  },
+  {
+    "id": 90,
+    "category": "health",
+    "question": "What is the function of antioxidants in the body?",
+    "option_a": "Boost metabolism",
+    "option_b": "Build muscle",
+    "option_c": "Neutralize free radicals",
+    "option_d": "Regulate hormones",
+    "correct_answer": "C"
+  },
+  {
+    "id": 91,
+    "category": "health",
+    "question": "Which mineral is most abundant in the human body?",
+    "option_a": "Iron",
+    "option_b": "Calcium",
+    "option_c": "Zinc",
+    "option_d": "Magnesium",
+    "correct_answer": "B"
+  },
+  {
+    "id": 92,
+    "category": "health",
+    "question": "What does the term 'metabolism' refer to?",
+    "option_a": "Rate of breathing",
+    "option_b": "Blood circulation speed",
+    "option_c": "Hormone production",
+    "option_d": "Chemical processes that sustain life",
+    "correct_answer": "D"
+  },
+  {
+    "id": 93,
+    "category": "health",
+    "question": "Which vitamin deficiency causes rickets?",
+    "option_a": "Vitamin C",
+    "option_b": "Vitamin A",
+    "option_c": "Vitamin D",
+    "option_d": "Vitamin B12",
+    "correct_answer": "C"
+  },
+  {
+    "id": 94,
+    "category": "health",
+    "question": "What is the primary function of the large intestine?",
+    "option_a": "Digest proteins",
+    "option_b": "Absorb vitamins",
+    "option_c": "Produce digestive enzymes",
+    "option_d": "Absorb water and form stool",
+    "correct_answer": "D"
+  },
+  {
+    "id": 95,
+    "category": "health",
+    "question": "What is cortisol known as?",
+    "option_a": "The sleep hormone",
+    "option_b": "The stress hormone",
+    "option_c": "The growth hormone",
+    "option_d": "The love hormone",
+    "correct_answer": "B"
+  },
+  {
+    "id": 96,
+    "category": "health",
+    "question": "What is a healthy fasting blood glucose level?",
+    "option_a": "150-200 mg/dL",
+    "option_b": "50-60 mg/dL",
+    "option_c": "70-99 mg/dL",
+    "option_d": "200-250 mg/dL",
+    "correct_answer": "C"
+  },
+  {
+    "id": 97,
+    "category": "health",
+    "question": "Which nutrient helps the body produce serotonin?",
+    "option_a": "Leucine",
+    "option_b": "Tryptophan",
+    "option_c": "Valine",
+    "option_d": "Isoleucine",
+    "correct_answer": "B"
+  },
+  {
+    "id": 98,
+    "category": "health",
+    "question": "What is the main cause of type 2 diabetes?",
+    "option_a": "Lack of insulin production",
+    "option_b": "Viral infection",
+    "option_c": "Insulin resistance",
+    "option_d": "Autoimmune disease",
+    "correct_answer": "C"
+  },
+  {
+    "id": 99,
+    "category": "health",
+    "question": "Which system is responsible for hormone production?",
+    "option_a": "Nervous system",
+    "option_b": "Endocrine system",
+    "option_c": "Lymphatic system",
+    "option_d": "Digestive system",
+    "correct_answer": "B"
+  },
+  {
+    "id": 100,
+    "category": "health",
+    "question": "What is the benefit of intermittent fasting?",
+    "option_a": "Increased caloric intake",
+    "option_b": "Faster muscle growth",
+    "option_c": "Improved insulin sensitivity",
+    "option_d": "Higher cholesterol",
+    "correct_answer": "C"
+  },
+  {
+    "id": 101,
+    "category": "health",
+    "question": "Which electrolyte is most important for muscle function?",
+    "option_a": "Sodium",
+    "option_b": "Chloride",
+    "option_c": "Bicarbonate",
+    "option_d": "Potassium",
+    "correct_answer": "D"
+  },
+  {
+    "id": 102,
+    "category": "health",
+    "question": "Which organ stores bile produced by the liver?",
+    "option_a": "Pancreas",
+    "option_b": "Gallbladder",
+    "option_c": "Spleen",
+    "option_d": "Appendix",
+    "correct_answer": "B"
+  },
+  {
+    "id": 103,
+    "category": "health",
+    "question": "What is the role of platelets in the blood?",
+    "option_a": "Carry oxygen",
+    "option_b": "Fight bacteria",
+    "option_c": "Help blood clot",
+    "option_d": "Produce hormones",
+    "correct_answer": "C"
+  },
+  {
+    "id": 104,
+    "category": "health",
+    "question": "Which vitamin is found in high amounts in citrus fruits?",
+    "option_a": "Vitamin A",
+    "option_b": "Vitamin E",
+    "option_c": "Vitamin C",
+    "option_d": "Vitamin D",
+    "correct_answer": "C"
+  },
+  {
+    "id": 105,
+    "category": "health",
+    "question": "What is the normal body temperature for humans?",
+    "option_a": "35.0 C",
+    "option_b": "37.0 C",
+    "option_c": "39.5 C",
+    "option_d": "40.0 C",
+    "correct_answer": "B"
+  },
+  {
+    "id": 106,
+    "category": "health",
+    "question": "Which hormone is responsible for the fight or flight response?",
+    "option_a": "Insulin",
+    "option_b": "Adrenaline (Epinephrine)",
+    "option_c": "Melatonin",
+    "option_d": "Estrogen",
+    "correct_answer": "B"
+  },
+  {
+    "id": 107,
+    "category": "health",
+    "question": "What does DNA stand for?",
+    "option_a": "Dynamic Nucleic Acid",
+    "option_b": "Deoxyribonucleic Acid",
+    "option_c": "Dual Nitrogen Atom",
+    "option_d": "Dense Nucleotide Array",
+    "correct_answer": "B"
+  },
+  {
+    "id": 108,
+    "category": "health",
+    "question": "Which nutrient is essential for red blood cell production?",
+    "option_a": "Zinc",
+    "option_b": "Iron",
+    "option_c": "Calcium",
+    "option_d": "Phosphorus",
+    "correct_answer": "B"
+  },
+  {
+    "id": 109,
+    "category": "health",
+    "question": "What is the function of the spleen?",
+    "option_a": "Filter blood and recycle red blood cells",
+    "option_b": "Produce insulin",
+    "option_c": "Store bile",
+    "option_d": "Regulate breathing",
+    "correct_answer": "A"
+  },
+  {
+    "id": 110,
+    "category": "health",
+    "question": "How many bones are in the adult human body?",
+    "option_a": "180",
+    "option_b": "206",
+    "option_c": "256",
+    "option_d": "300",
+    "correct_answer": "B"
+  },
+  {
+    "id": 111,
+    "category": "health",
+    "question": "Which type of cholesterol is considered good?",
+    "option_a": "LDL",
+    "option_b": "VLDL",
+    "option_c": "HDL",
+    "option_d": "Triglycerides",
+    "correct_answer": "C"
+  },
+  {
+    "id": 112,
+    "category": "health",
+    "question": "What is the role of fiber in digestion?",
+    "option_a": "Break down proteins",
+    "option_b": "Promote bowel regularity",
+    "option_c": "Absorb vitamins",
+    "option_d": "Produce stomach acid",
+    "correct_answer": "B"
+  },
+  {
+    "id": 113,
+    "category": "health",
+    "question": "Which vitamin is important for skin health and wound healing?",
+    "option_a": "Vitamin B12",
+    "option_b": "Vitamin K",
+    "option_c": "Vitamin C",
+    "option_d": "Vitamin D",
+    "correct_answer": "C"
+  },
+  {
+    "id": 114,
+    "category": "health",
+    "question": "What is the average lifespan of a red blood cell?",
+    "option_a": "10 days",
+    "option_b": "30 days",
+    "option_c": "120 days",
+    "option_d": "365 days",
+    "correct_answer": "C"
+  },
+  {
+    "id": 115,
+    "category": "health",
+    "question": "Which gland is known as the master gland of the endocrine system?",
+    "option_a": "Thyroid",
+    "option_b": "Adrenal",
+    "option_c": "Pituitary",
+    "option_d": "Pineal",
+    "correct_answer": "C"
+  },
+  {
+    "id": 116,
+    "category": "health",
+    "question": "What is the primary function of the small intestine?",
+    "option_a": "Store food",
+    "option_b": "Absorb nutrients",
+    "option_c": "Produce bile",
+    "option_d": "Filter waste",
+    "correct_answer": "B"
+  },
+  {
+    "id": 117,
+    "category": "health",
+    "question": "Which blood type is known as the universal donor?",
+    "option_a": "A",
+    "option_b": "B",
+    "option_c": "AB",
+    "option_d": "O negative",
+    "correct_answer": "D"
+  },
+  {
+    "id": 118,
+    "category": "health",
+    "question": "What is the purpose of stomach acid?",
+    "option_a": "Absorb vitamins",
+    "option_b": "Break down food and kill bacteria",
+    "option_c": "Produce enzymes",
+    "option_d": "Store nutrients",
+    "correct_answer": "B"
+  },
+  {
+    "id": 119,
+    "category": "health",
+    "question": "Which mineral is important for immune function and wound healing?",
+    "option_a": "Iron",
+    "option_b": "Zinc",
+    "option_c": "Calcium",
+    "option_d": "Sodium",
+    "correct_answer": "B"
+  },
+  {
+    "id": 120,
+    "category": "health",
+    "question": "What is the normal pH of human blood?",
+    "option_a": "6.0-6.5",
+    "option_b": "7.35-7.45",
+    "option_c": "8.0-8.5",
+    "option_d": "5.5-6.0",
+    "correct_answer": "B"
+  },
+  {
+    "id": 121,
+    "category": "health",
+    "question": "Which organ produces red blood cells in adults?",
+    "option_a": "Liver",
+    "option_b": "Spleen",
+    "option_c": "Bone marrow",
+    "option_d": "Lymph nodes",
+    "correct_answer": "C"
+  },
+  {
+    "id": 122,
+    "category": "health",
+    "question": "What does the term hypertension refer to?",
+    "option_a": "Low blood pressure",
+    "option_b": "High blood pressure",
+    "option_c": "Irregular heartbeat",
+    "option_d": "Blocked arteries",
+    "correct_answer": "B"
+  },
+  {
+    "id": 123,
+    "category": "health",
+    "question": "Which vitamin is essential for nerve function?",
+    "option_a": "Vitamin B12",
+    "option_b": "Vitamin C",
+    "option_c": "Vitamin D",
+    "option_d": "Vitamin K",
+    "correct_answer": "A"
+  },
+  {
+    "id": 124,
+    "category": "health",
+    "question": "What is the main function of the gallbladder?",
+    "option_a": "Produce bile",
+    "option_b": "Store and concentrate bile",
+    "option_c": "Filter blood",
+    "option_d": "Regulate blood sugar",
+    "correct_answer": "B"
+  },
+  {
+    "id": 125,
+    "category": "health",
+    "question": "Which condition involves the inflammation of joints?",
+    "option_a": "Osteoporosis",
+    "option_b": "Arthritis",
+    "option_c": "Anemia",
+    "option_d": "Hypertension",
+    "correct_answer": "B"
+  },
+  {
+    "id": 126,
+    "category": "health",
+    "question": "What is the lymphatic system's role in immunity?",
+    "option_a": "Produce red blood cells",
+    "option_b": "Transport lymph and fight infection",
+    "option_c": "Regulate heart rate",
+    "option_d": "Produce hormones",
+    "correct_answer": "B"
+  },
+  {
+    "id": 127,
+    "category": "health",
+    "question": "What is the function of the adrenal glands?",
+    "option_a": "Produce digestive enzymes",
+    "option_b": "Regulate kidney function",
+    "option_c": "Produce cortisol and adrenaline",
+    "option_d": "Filter blood",
+    "correct_answer": "C"
+  },
+  {
+    "id": 128,
+    "category": "health",
+    "question": "Which nutrient is the primary energy source for the brain?",
+    "option_a": "Protein",
+    "option_b": "Fat",
+    "option_c": "Glucose",
+    "option_d": "Fiber",
+    "correct_answer": "C"
+  },
+  {
+    "id": 129,
+    "category": "fitness",
+    "question": "What is the recommended amount of aerobic exercise per week for adults?",
+    "option_a": "30 minutes total",
+    "option_b": "150 min moderate or 75 min vigorous",
+    "option_c": "500 minutes total",
+    "option_d": "60 minutes vigorous only",
+    "correct_answer": "B"
+  },
+  {
+    "id": 130,
+    "category": "fitness",
+    "question": "Which type of exercise is best for building muscle mass?",
+    "option_a": "Yoga",
+    "option_b": "Walking",
+    "option_c": "Resistance/strength training",
+    "option_d": "Stretching",
+    "correct_answer": "C"
+  },
+  {
+    "id": 131,
+    "category": "fitness",
+    "question": "What is VO2 max?",
+    "option_a": "Maximum heart rate",
+    "option_b": "Blood pressure during exercise",
+    "option_c": "Maximum oxygen uptake during exercise",
+    "option_d": "Lung capacity at rest",
+    "correct_answer": "C"
+  },
+  {
+    "id": 132,
+    "category": "fitness",
+    "question": "Which muscle group does the squat primarily target?",
+    "option_a": "Chest and shoulders",
+    "option_b": "Quadriceps and glutes",
+    "option_c": "Back and biceps",
+    "option_d": "Calves and ankles",
+    "correct_answer": "B"
+  },
+  {
+    "id": 133,
+    "category": "fitness",
+    "question": "What is the purpose of a warm-up before exercise?",
+    "option_a": "Build strength",
+    "option_b": "Burn calories",
+    "option_c": "Improve flexibility",
+    "option_d": "Prepare muscles and prevent injury",
+    "correct_answer": "D"
+  },
+  {
+    "id": 134,
+    "category": "fitness",
+    "question": "How long does DOMS (muscle soreness) typically peak?",
+    "option_a": "Immediately after exercise",
+    "option_b": "24-72 hours after exercise",
+    "option_c": "1 week after exercise",
+    "option_d": "During exercise only",
+    "correct_answer": "B"
+  },
+  {
+    "id": 135,
+    "category": "fitness",
+    "question": "What does HIIT stand for?",
+    "option_a": "High-Impact Incline Training",
+    "option_b": "High-Intensity Interval Training",
+    "option_c": "Heavy Isometric Interval Technique",
+    "option_d": "High-Intensity Isometric Training",
+    "correct_answer": "B"
+  },
+  {
+    "id": 136,
+    "category": "fitness",
+    "question": "Which exercise is best for cardiovascular health?",
+    "option_a": "Weight lifting",
+    "option_b": "Stretching",
+    "option_c": "Running",
+    "option_d": "Balance training",
+    "correct_answer": "C"
+  },
+  {
+    "id": 137,
+    "category": "fitness",
+    "question": "What is the ideal protein intake for muscle building?",
+    "option_a": "0.5g per kg of body weight",
+    "option_b": "1.6-2.2g per kg of body weight",
+    "option_c": "5g per kg of body weight",
+    "option_d": "3g per pound of body weight",
+    "correct_answer": "B"
+  },
+  {
+    "id": 138,
+    "category": "fitness",
+    "question": "Which energy system is used for short explosive movements?",
+    "option_a": "Aerobic system",
+    "option_b": "ATP-PCr system",
+    "option_c": "Glycolytic system",
+    "option_d": "Oxidative system",
+    "correct_answer": "B"
+  },
+  {
+    "id": 139,
+    "category": "fitness",
+    "question": "What is progressive overload?",
+    "option_a": "Exercising every day",
+    "option_b": "Gradually increasing exercise difficulty",
+    "option_c": "Using maximum weight always",
+    "option_d": "Resting between sets",
+    "correct_answer": "B"
+  },
+  {
+    "id": 140,
+    "category": "fitness",
+    "question": "Which exercise best targets the core muscles?",
+    "option_a": "Bicep curl",
+    "option_b": "Leg press",
+    "option_c": "Plank",
+    "option_d": "Chest fly",
+    "correct_answer": "C"
+  },
+  {
+    "id": 141,
+    "category": "fitness",
+    "question": "What is the recommended rest between strength sessions for same muscle group?",
+    "option_a": "12 hours",
+    "option_b": "48-72 hours",
+    "option_c": "1 week",
+    "option_d": "No rest needed",
+    "correct_answer": "B"
+  },
+  {
+    "id": 142,
+    "category": "fitness",
+    "question": "Which stretching type is best done BEFORE exercise?",
+    "option_a": "Static stretching",
+    "option_b": "Dynamic stretching",
+    "option_c": "Ballistic stretching",
+    "option_d": "PNF stretching",
+    "correct_answer": "B"
+  },
+  {
+    "id": 143,
+    "category": "fitness",
+    "question": "What is the primary fuel source during low-intensity exercise?",
+    "option_a": "Carbohydrates",
+    "option_b": "Fat",
+    "option_c": "Protein",
+    "option_d": "Creatine",
+    "correct_answer": "B"
+  },
+  {
+    "id": 144,
+    "category": "fitness",
+    "question": "The deadlift primarily targets which muscles?",
+    "option_a": "Chest and shoulders",
+    "option_b": "Biceps and forearms",
+    "option_c": "Calves and tibialis",
+    "option_d": "Posterior chain (hamstrings, glutes, back)",
+    "correct_answer": "D"
+  },
+  {
+    "id": 145,
+    "category": "fitness",
+    "question": "What is muscle hypertrophy?",
+    "option_a": "Increase in muscle strength",
+    "option_b": "Increase in muscle size",
+    "option_c": "Increase in muscle endurance",
+    "option_d": "Muscle damage",
+    "correct_answer": "B"
+  },
+  {
+    "id": 146,
+    "category": "fitness",
+    "question": "Which vitamin is important for muscle recovery after exercise?",
+    "option_a": "Vitamin K",
+    "option_b": "Vitamin B1",
+    "option_c": "Vitamin C",
+    "option_d": "Vitamin A",
+    "correct_answer": "C"
+  },
+  {
+    "id": 147,
+    "category": "fitness",
+    "question": "What does RPE stand for in fitness?",
+    "option_a": "Rapid Performance Exercise",
+    "option_b": "Rate of Perceived Exertion",
+    "option_c": "Rest Period Estimation",
+    "option_d": "Repetition Performance Evaluation",
+    "correct_answer": "B"
+  },
+  {
+    "id": 148,
+    "category": "fitness",
+    "question": "Which exercise is best for targeting the triceps?",
+    "option_a": "Bicep curls",
+    "option_b": "Tricep dips",
+    "option_c": "Shoulder press",
+    "option_d": "Lat pulldown",
+    "correct_answer": "B"
+  },
+  {
+    "id": 149,
+    "category": "fitness",
+    "question": "What is the benefit of foam rolling?",
+    "option_a": "Build muscle mass",
+    "option_b": "Reduce muscle tension and improve recovery",
+    "option_c": "Increase flexibility quickly",
+    "option_d": "Burn calories",
+    "correct_answer": "B"
+  },
+  {
+    "id": 150,
+    "category": "fitness",
+    "question": "How many calories does 1 pound of fat contain?",
+    "option_a": "1,000 calories",
+    "option_b": "3,500 calories",
+    "option_c": "5,000 calories",
+    "option_d": "2,000 calories",
+    "correct_answer": "B"
+  },
+  {
+    "id": 151,
+    "category": "fitness",
+    "question": "What is a compound exercise?",
+    "option_a": "Single muscle isolation",
+    "option_b": "Multi-joint movement",
+    "option_c": "Cardio exercise",
+    "option_d": "Flexibility exercise",
+    "correct_answer": "B"
+  },
+  {
+    "id": 152,
+    "category": "fitness",
+    "question": "Which hormone is primarily responsible for muscle growth?",
+    "option_a": "Estrogen",
+    "option_b": "Testosterone",
+    "option_c": "Cortisol",
+    "option_d": "Insulin",
+    "correct_answer": "B"
+  },
+  {
+    "id": 153,
+    "category": "fitness",
+    "question": "What is the safest way to lose weight?",
+    "option_a": "5 kg per week through fasting",
+    "option_b": "0.5-1 kg per week through diet and exercise",
+    "option_c": "10 kg per month through extreme dieting",
+    "option_d": "No eating for days",
+    "correct_answer": "B"
+  },
+  {
+    "id": 154,
+    "category": "fitness",
+    "question": "Which exercise targets the latissimus dorsi?",
+    "option_a": "Push-up",
+    "option_b": "Pull-up",
+    "option_c": "Squat",
+    "option_d": "Lunge",
+    "correct_answer": "B"
+  },
+  {
+    "id": 155,
+    "category": "fitness",
+    "question": "What is the purpose of cooling down after exercise?",
+    "option_a": "Build additional strength",
+    "option_b": "Gradually lower heart rate and reduce soreness",
+    "option_c": "Burn extra calories",
+    "option_d": "Prepare for next workout",
+    "correct_answer": "B"
+  },
+  {
+    "id": 156,
+    "category": "fitness",
+    "question": "Which cardio machine is lowest impact on joints?",
+    "option_a": "Treadmill",
+    "option_b": "Elliptical",
+    "option_c": "Stair climber",
+    "option_d": "Rowing machine",
+    "correct_answer": "B"
+  },
+  {
+    "id": 157,
+    "category": "fitness",
+    "question": "What is periodization in training?",
+    "option_a": "Exercising every day the same way",
+    "option_b": "Structured variation of training variables",
+    "option_c": "Counting repetitions",
+    "option_d": "Tracking calories burned",
+    "correct_answer": "B"
+  },
+  {
+    "id": 158,
+    "category": "fitness",
+    "question": "Which exercise works the chest, shoulders, and triceps?",
+    "option_a": "Lat pulldown",
+    "option_b": "Bench press",
+    "option_c": "Leg press",
+    "option_d": "Seated row",
+    "correct_answer": "B"
+  },
+  {
+    "id": 159,
+    "category": "fitness",
+    "question": "What is the minimum frequency recommended for strength training per week?",
+    "option_a": "6 days per week",
+    "option_b": "2 days per week",
+    "option_c": "1 day per week",
+    "option_d": "Every day",
+    "correct_answer": "B"
+  },
+  {
+    "id": 160,
+    "category": "fitness",
+    "question": "What does BMR stand for?",
+    "option_a": "Body Mass Ratio",
+    "option_b": "Basal Metabolic Rate",
+    "option_c": "Basic Muscle Response",
+    "option_d": "Blood Movement Rate",
+    "correct_answer": "B"
+  },
+  {
+    "id": 161,
+    "category": "fitness",
+    "question": "What is glycogen?",
+    "option_a": "Type of protein",
+    "option_b": "Body fat",
+    "option_c": "A hormone",
+    "option_d": "Stored form of carbohydrate in muscles and liver",
+    "correct_answer": "D"
+  },
+  {
+    "id": 162,
+    "category": "fitness",
+    "question": "Which exercise is most effective for burning calories?",
+    "option_a": "Walking slowly",
+    "option_b": "Light stretching",
+    "option_c": "Running at high intensity",
+    "option_d": "Sitting yoga",
+    "correct_answer": "C"
+  },
+  {
+    "id": 163,
+    "category": "fitness",
+    "question": "What is the recommended daily step count for general health?",
+    "option_a": "2,000 steps",
+    "option_b": "20,000 steps",
+    "option_c": "500 steps",
+    "option_d": "10,000 steps",
+    "correct_answer": "D"
+  },
+  {
+    "id": 164,
+    "category": "fitness",
+    "question": "Which muscle is the largest in the human body?",
+    "option_a": "Quadriceps",
+    "option_b": "Gluteus maximus",
+    "option_c": "Latissimus dorsi",
+    "option_d": "Hamstrings",
+    "correct_answer": "B"
+  },
+  {
+    "id": 165,
+    "category": "fitness",
+    "question": "What is cross-training?",
+    "option_a": "Training with a partner",
+    "option_b": "Using heavy weights",
+    "option_c": "Using multiple types of exercise",
+    "option_d": "Training at high altitude",
+    "correct_answer": "C"
+  },
+  {
+    "id": 166,
+    "category": "fitness",
+    "question": "After exercise, the anabolic window for nutrition is approximately:",
+    "option_a": "5 minutes",
+    "option_b": "30-60 minutes",
+    "option_c": "5 hours",
+    "option_d": "24 hours",
+    "correct_answer": "B"
+  },
+  {
+    "id": 167,
+    "category": "fitness",
+    "question": "Which type of exercise improves balance and coordination?",
+    "option_a": "Heavy lifting",
+    "option_b": "Sprinting",
+    "option_c": "Yoga and tai chi",
+    "option_d": "Swimming",
+    "correct_answer": "C"
+  },
+  {
+    "id": 168,
+    "category": "fitness",
+    "question": "What is the function of creatine in exercise?",
+    "option_a": "Burn fat faster",
+    "option_b": "Provide quick energy for explosive movements",
+    "option_c": "Increase flexibility",
+    "option_d": "Reduce heart rate",
+    "correct_answer": "B"
+  },
+  {
+    "id": 169,
+    "category": "fitness",
+    "question": "Which exercise targets the hamstrings most effectively?",
+    "option_a": "Leg extension",
+    "option_b": "Romanian deadlift",
+    "option_c": "Calf raise",
+    "option_d": "Hip flexor stretch",
+    "correct_answer": "B"
+  },
+  {
+    "id": 170,
+    "category": "fitness",
+    "question": "What does sets and reps mean in weight training?",
+    "option_a": "Duration and speed of exercise",
+    "option_b": "Groups of repetitions of an exercise",
+    "option_c": "Weight and resistance levels",
+    "option_d": "Type and order of exercises",
+    "correct_answer": "B"
+  },
+  {
+    "id": 171,
+    "category": "fitness",
+    "question": "What is the benefit of morning exercise?",
+    "option_a": "Burns more calories than evening",
+    "option_b": "Boosts metabolism and energy for the day",
+    "option_c": "Builds muscle faster",
+    "option_d": "Improves sleep quality only",
+    "correct_answer": "B"
+  },
+  {
+    "id": 172,
+    "category": "fitness",
+    "question": "Which exercise is best for improving posture?",
+    "option_a": "Bench press",
+    "option_b": "Bicep curls",
+    "option_c": "Rows and back extensions",
+    "option_d": "Leg raises",
+    "correct_answer": "C"
+  },
+  {
+    "id": 173,
+    "category": "fitness",
+    "question": "What is functional fitness?",
+    "option_a": "High-intensity cardio",
+    "option_b": "Training for aesthetics only",
+    "option_c": "Training that mimics real-life movements",
+    "option_d": "Flexibility training only",
+    "correct_answer": "C"
+  },
+  {
+    "id": 174,
+    "category": "fitness",
+    "question": "What is the recommended hydration strategy during exercise?",
+    "option_a": "Drink only after workout",
+    "option_b": "Avoid water during exercise",
+    "option_c": "Drink 1 liter per minute",
+    "option_d": "Drink regularly before feeling thirsty",
+    "correct_answer": "D"
+  },
+  {
+    "id": 175,
+    "category": "fitness",
+    "question": "Which mineral is lost through sweat and needs replenishment after exercise?",
+    "option_a": "Calcium and phosphorus",
+    "option_b": "Iron and zinc",
+    "option_c": "Sodium and potassium",
+    "option_d": "Magnesium and sulfur",
+    "correct_answer": "C"
+  },
+  {
+    "id": 176,
+    "category": "fitness",
+    "question": "What is the purpose of a deload week in training?",
+    "option_a": "Increase training intensity",
+    "option_b": "Test maximum strength",
+    "option_c": "Switch to cardio only",
+    "option_d": "Allow recovery and prevent overtraining",
+    "correct_answer": "D"
+  },
+  {
+    "id": 177,
+    "category": "fitness",
+    "question": "What is the main benefit of swimming as exercise?",
+    "option_a": "Maximum calorie burn",
+    "option_b": "Full-body workout with low joint impact",
+    "option_c": "Fastest muscle growth",
+    "option_d": "Best for bone density",
+    "correct_answer": "B"
+  },
+  {
+    "id": 178,
+    "category": "fitness",
+    "question": "Which breathing technique is recommended during weight lifting?",
+    "option_a": "Hold breath throughout",
+    "option_b": "Breathe in on exertion",
+    "option_c": "Breathe only through mouth",
+    "option_d": "Exhale on exertion, inhale on release",
+    "correct_answer": "D"
+  },
+  {
+    "id": 179,
+    "category": "fitness",
+    "question": "What defines an elite athlete's resting heart rate?",
+    "option_a": "80-100 bpm",
+    "option_b": "100-120 bpm",
+    "option_c": "40-60 bpm (lower than average)",
+    "option_d": "60-80 bpm",
+    "correct_answer": "C"
+  },
+  {
+    "id": 180,
+    "category": "fitness",
+    "question": "What is the difference between aerobic and anaerobic exercise?",
+    "option_a": "Aerobic uses oxygen; anaerobic does not",
+    "option_b": "Aerobic is faster; anaerobic is slower",
+    "option_c": "Aerobic builds muscle; anaerobic burns fat",
+    "option_d": "There is no difference",
+    "correct_answer": "A"
+  },
+  {
+    "id": 181,
+    "category": "fitness",
+    "question": "Which macronutrient should be consumed most before endurance exercise?",
+    "option_a": "Protein",
+    "option_b": "Fat",
+    "option_c": "Carbohydrates",
+    "option_d": "Fiber",
+    "correct_answer": "C"
+  },
+  {
+    "id": 182,
+    "category": "fitness",
+    "question": "What is a superset in weight training?",
+    "option_a": "Two exercises performed back-to-back",
+    "option_b": "Maximum weight for one rep",
+    "option_c": "Resting for 5 minutes between sets",
+    "option_d": "Exercising for 2 hours straight",
+    "correct_answer": "A"
+  },
+  {
+    "id": 183,
+    "category": "fitness",
+    "question": "Which muscle does the leg extension machine isolate?",
+    "option_a": "Hamstrings",
+    "option_b": "Glutes",
+    "option_c": "Quadriceps",
+    "option_d": "Calves",
+    "correct_answer": "C"
+  },
+  {
+    "id": 184,
+    "category": "fitness",
+    "question": "What is the ideal time to consume protein after a workout?",
+    "option_a": "2 hours before sleeping",
+    "option_b": "Within 30-60 minutes after workout",
+    "option_c": "Only at breakfast",
+    "option_d": "Immediately before workout",
+    "correct_answer": "B"
+  },
+  {
+    "id": 185,
+    "category": "fitness",
+    "question": "Which type of training improves muscular endurance best?",
+    "option_a": "Heavy low-rep training",
+    "option_b": "Light high-rep training",
+    "option_c": "Explosive power training",
+    "option_d": "Static stretching",
+    "correct_answer": "B"
+  },
+  {
+    "id": 186,
+    "category": "fitness",
+    "question": "What is body recomposition?",
+    "option_a": "Only gaining muscle",
+    "option_b": "Losing fat and gaining muscle simultaneously",
+    "option_c": "Only losing fat",
+    "option_d": "Maintaining current body composition",
+    "correct_answer": "B"
+  },
+  {
+    "id": 187,
+    "category": "fitness",
+    "question": "Which exercise is best for developing core stability?",
+    "option_a": "Sit-ups",
+    "option_b": "Dead bugs and planks",
+    "option_c": "Leg press",
+    "option_d": "Bicep curls",
+    "correct_answer": "B"
+  },
+  {
+    "id": 188,
+    "category": "fitness",
+    "question": "What is the concept of time under tension (TUT)?",
+    "option_a": "Total workout duration",
+    "option_b": "Duration muscles are under load during a set",
+    "option_c": "Rest time between sets",
+    "option_d": "Time to complete one rep",
+    "correct_answer": "B"
+  },
+  {
+    "id": 189,
+    "category": "fitness",
+    "question": "Which factor most determines athletic performance?",
+    "option_a": "Genetics alone",
+    "option_b": "Training and recovery combined",
+    "option_c": "Diet alone",
+    "option_d": "Supplements",
+    "correct_answer": "B"
+  },
+  {
+    "id": 190,
+    "category": "fitness",
+    "question": "What is the benefit of resistance bands?",
+    "option_a": "Only for rehabilitation",
+    "option_b": "Provide variable resistance through full range of motion",
+    "option_c": "Less effective than weights",
+    "option_d": "Only for beginners",
+    "correct_answer": "B"
+  },
+  {
+    "id": 191,
+    "category": "fitness",
+    "question": "Which exercise improves ankle mobility?",
+    "option_a": "Bench press",
+    "option_b": "Calf stretches and ankle circles",
+    "option_c": "Pull-ups",
+    "option_d": "Shoulder press",
+    "correct_answer": "B"
+  },
+  {
+    "id": 192,
+    "category": "fitness",
+    "question": "What does one rep max (1RM) measure?",
+    "option_a": "Average weight lifted in one set",
+    "option_b": "Maximum weight lifted for one repetition",
+    "option_c": "Total weight lifted in a session",
+    "option_d": "Minimum weight for warming up",
+    "correct_answer": "B"
+  },
+  {
+    "id": 193,
+    "category": "fitness",
+    "question": "What is the role of sleep in fitness?",
+    "option_a": "Has no impact on performance",
+    "option_b": "Essential for muscle repair and recovery",
+    "option_c": "Only affects mood",
+    "option_d": "Decreases muscle growth",
+    "correct_answer": "B"
+  },
+  {
+    "id": 194,
+    "category": "fitness",
+    "question": "Which training method alternates between high and low intensity?",
+    "option_a": "Steady-state cardio",
+    "option_b": "Interval training",
+    "option_c": "Isometric training",
+    "option_d": "Plyometric training",
+    "correct_answer": "B"
+  },
+  {
+    "id": 195,
+    "category": "fitness",
+    "question": "What is the primary purpose of stretching after exercise?",
+    "option_a": "Build muscle",
+    "option_b": "Improve flexibility and reduce soreness",
+    "option_c": "Increase heart rate",
+    "option_d": "Burn additional calories",
+    "correct_answer": "B"
+  },
+  {
+    "id": 196,
+    "category": "fitness",
+    "question": "Which exercise targets the shoulder deltoid muscles?",
+    "option_a": "Bicep curl",
+    "option_b": "Lateral raise",
+    "option_c": "Leg extension",
+    "option_d": "Romanian deadlift",
+    "correct_answer": "B"
+  },
+  {
+    "id": 197,
+    "category": "fitness",
+    "question": "What is the benefit of tracking workouts?",
+    "option_a": "Makes exercise harder",
+    "option_b": "Allows monitoring of progress and adjustments",
+    "option_c": "Reduces motivation",
+    "option_d": "Only useful for beginners",
+    "correct_answer": "B"
+  },
+  {
+    "id": 198,
+    "category": "fitness",
+    "question": "Which diet approach supports both fat loss and muscle retention?",
+    "option_a": "Zero-calorie diet",
+    "option_b": "High protein with moderate calorie deficit",
+    "option_c": "High fat, zero carb",
+    "option_d": "All-liquid diet",
+    "correct_answer": "B"
+  }
+]
